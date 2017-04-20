@@ -1,0 +1,28 @@
+nav{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    background-color: black;
+}
+.menu{
+    width: 70%;
+    float: left;
+    color: white;
+}
+.menu li, .iconMenu li{
+    display: inline-block;
+    float: left;
+    padding: 15px;
+}
+.menu li a, .iconMenu li a{
+    color: white;
+    padding: 15px 0;
+    text-decoration: none;
+}
+.menu li a:hover{
+    background-color: green;
+}
+.iconMenu{
+    width: 30%;
+    float: left;
+}
