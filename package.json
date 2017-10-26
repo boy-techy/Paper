@@ -8,9 +8,10 @@
     "react-fontawesome": "^1.5.0"
   },
   "devDependencies": {
-    "react-scripts": "0.9.5"
+    
   },
   "scripts": {
+    "react-scripts": "0.9.5",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
